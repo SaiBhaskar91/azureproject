@@ -1,0 +1,15 @@
+{
+	"name": "adfete1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "256c87da-0c9d-441e-9850-ddd027d62658",
+		"tenantId": "df7217c9-cec8-4cc2-8e6a-a1cfbfadb321"
+	}
+}
